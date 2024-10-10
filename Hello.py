@@ -1,6 +1,8 @@
 print("Hello World")
 
 a = 15
-b = 1 
+b = 3
 
-print(a + b)
+c = b/a
+
+print(c)
